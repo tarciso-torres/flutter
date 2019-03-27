@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "478249570326",
+    "firebase_url": "https://chatonlinetats.firebaseio.com",
+    "project_id": "chatonlinetats",
+    "storage_bucket": "chatonlinetats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478249570326:android:7addc6a5f72e4298",
+        "android_client_info": {
+          "package_name": "com.redfort.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478249570326-36si7v61h4o1dkd919h1aotgs5froocq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.redfort.chat",
+            "certificate_hash": "28455d3b27c29bc5d6ba079487fd1faa4b8c5627"
+          }
+        },
+        {
+          "client_id": "478249570326-pp8cv98ha7qmki7op0usj1o3isivqtmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRbn7wPOuCxuUfuSLrmCrkKw9gfYn74I0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478249570326-pp8cv98ha7qmki7op0usj1o3isivqtmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
