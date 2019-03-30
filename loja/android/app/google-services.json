@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1040981813042",
+    "firebase_url": "https://lojaflutter-c76d3.firebaseio.com",
+    "project_id": "lojaflutter-c76d3",
+    "storage_bucket": "lojaflutter-c76d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040981813042:android:4e83d4789ea267e5",
+        "android_client_info": {
+          "package_name": "com.redfort.loja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040981813042-bgfssa4vsnu8hdqlkvn9ukb0edjtu2n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJDqtnLWTv7ukxbzrOIpp8nQlvvNcePUk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
