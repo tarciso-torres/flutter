@@ -61,7 +61,7 @@ class CartPrice extends StatelessWidget {
                     Text(
                         "Total",
                       style: TextStyle(fontWeight: FontWeight.w500),),
-                    Text("R\$ 0.00",
+                    Text("R\$ ${(price + ship - discount).toStringAsFixed(2)}",
                       style: TextStyle(color: Theme.of(context).primaryColor, fontSize: 16.0),)
                   ],
                 ),
