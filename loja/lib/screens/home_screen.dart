@@ -27,9 +27,6 @@ class HomeScreen extends StatelessWidget {
           body: ProductsTab(),
           floatingActionButton: CartButton(),
         ),
-        Container(color: Colors.red,),
-        Container(color: Colors.yellow,),
-        Container(color: Colors.green,)
       ],
     );
   }
