@@ -50,6 +50,7 @@ class DataSearch extends SearchDelegate<String>{
            ) ;
           } else {
             return ListView.builder(
+                itemCount: snapshot.data.length,
                 itemBuilder: (context, index) {
                   return ListTile(
                     title: Text(snapshot.data[index]),
@@ -58,7 +59,8 @@ class DataSearch extends SearchDelegate<String>{
                       close(context, snapshot.data[index]);
                     },
                   );
-                });
+                },
+            );
           }
         }
       );
